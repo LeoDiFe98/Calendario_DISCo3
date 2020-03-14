@@ -1,0 +1,2 @@
+rootProject.name='Calendario DISCo'
+include ':app'
